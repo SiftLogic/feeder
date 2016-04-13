@@ -22,10 +22,10 @@
   enclosure :: undefined | enclosure(),
   id :: undefined | binary(),
   image :: undefined | binary(),
-  link :: undefined | binary(),
+  link :: undefined | binary(),
   subtitle :: undefined | binary(),
   summary :: undefined | binary(),
-  title :: undefined | binary(),
+  title :: undefined | binary(),
   updated :: undefined | binary()
 }).
 
